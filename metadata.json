@@ -1,0 +1,6 @@
+{
+  "name": "Mogame Pro",
+  "description": "Unlock your coding potential. CodeMaster Hub is the ultimate all-in-one programming platform. Read learning articles, buy & sell code snippets, chat with support, and manage everything remotely.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
